@@ -1,2 +1,8 @@
-# app-dev
-My first repository
+``` 
+{
+  "firstName": "Reinzel",
+  "lastName": "Generoso",
+  "age": 20
+}
+```
+
